@@ -11,11 +11,11 @@ app = FastAPI()
 
 
 # AWS S3 credentials
-AWS_ACCESS_KEY_ID = 'AKIA2RNQ6W7SDUQG6KCK'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_BUCKET_NAME = 'vidpod'
-S3_ENDPOINT_URL = f"https://{AWS_BUCKET_NAME}.s3.amazonaws.com/"
-AWS_REGION ="ap-south-1"
+AWS_ACCESS_KEY_ID = os.environ("S3_AWS_ACCESS_KEY_ID")
+AWS_SECRET_ACCESS_KEY = os.environ("S3_AWS_SECRET_ACCESS_KEY")
+AWS_BUCKET_NAME = os.environ("S3_AWS_BUCKET_NAME")
+S3_ENDPOINT_URL = os.environ("S3_S3_ENDPOINT_URL")
+AWS_REGION = os.environ("S3_AWS_REGION")
 
 S3_BASE_URL = f"https://{AWS_BUCKET_NAME}.s3.{AWS_REGION}.amazonaws.com/"
 

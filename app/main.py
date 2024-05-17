@@ -18,7 +18,7 @@ app = FastAPI()
 
 client = OpenAI(
     # This is the default and can be omitted
-    api_key="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",
+    api_key=os.environ("OPEN_AI_API_KEY"),
 )
 
 class RSSUrl(BaseModel):

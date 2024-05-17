@@ -2,16 +2,17 @@ from fastapi import FastAPI, HTTPException
 import boto3
 from botocore.exceptions import ClientError
 from pydantic import BaseModel
+import os
 
 # Initialize FastAPI
 app = FastAPI()
 
 # AWS credentials
-AWS_ACCESS_KEY_ID = 'AKIA2RNQ6W7SDNKB6Y4L'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_BUCKET_NAME = 'vidpod'
-S3_ENDPOINT_URL = f"https://{AWS_BUCKET_NAME}.s3.amazonaws.com/"
-AWS_REGION ="ap-south-1"
+AWS_ACCESS_KEY_ID = os.environ("POLLY_AWS_ACCESS_KEY_ID")
+AWS_SECRET_ACCESS_KEY = os.environ("POLLY_AWS_SECRET_ACCESS_KEY")
+AWS_BUCKET_NAME = os.environ("POLLY_AWS_BUCKET_NAME")
+S3_ENDPOINT_URL = os.environ("POLLY_S3_ENDPOINT_URL")
+AWS_REGION = os.environ("POLLY_AWS_REGION")
 
 # Initialize Amazon Polly and S3 clients
 polly_client = boto3.client('polly', region_name=AWS_REGION,
