@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Startup Shit]]></title>
+		<description><![CDATA[Talking to entrepreneurs about the parts of startups that are kinda shitty. The bad times, the hard times, and everything in between.]]></description>
+		<link>https://rox.codes</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40752721/40752721-1710622634287-55f3162389f49.jpg</url>
+			<title>Startup Shit</title>
+			<link>https://rox.codes</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Thu, 09 May 2024 17:02:21 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/f3804e24/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Rox Codes]]></author>
+		<copyright><![CDATA[Rox Codes]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Rox Codes</itunes:author>
+		<itunes:summary>Talking to entrepreneurs about the parts of startups that are kinda shitty. The bad times, the hard times, and everything in between.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Rox Codes</itunes:name>
+			<itunes:email>podcast@rox.works</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Business">
+			<itunes:category text="Entrepreneurship"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40752721/40752721-1710622634287-55f3162389f49.jpg"/>
+		<item>
+			<title><![CDATA[What It Takes To Be A Founder/Startup Employee - Theo Browne from Ping Labs]]></title>
+			<description><![CDATA[<p>Are you cut out for working at a startup? Am I? I talked with Theo, twitch engineer turned YC CEO about how he brought together his team, how to gain passion as a founder, and how to know if you&apos;re right for the position.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/roxcodes/episodes/What-It-Takes-To-Be-A-FounderStartup-Employee---Theo-Browne-from-Ping-Labs-e2h0is2</link>
+			<guid isPermaLink="false">Buzzsprout-10488088</guid>
+			<dc:creator><![CDATA[Rox Codes]]></dc:creator>
+			<pubDate>Sat, 30 Apr 2022 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3804e24/podcast/play/83953986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370712215-44100-1-0c9db81ff8218b14.mp3" length="148408690" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Are you cut out for working at a startup? Am I? I talked with Theo, twitch engineer turned YC CEO about how he brought together his team, how to gain passion as a founder, and how to know if you&amp;apos;re right for the position.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>03:26:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40752721/89632372bb78d223.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Sumit Kumar on Content, Startups, and Cultures]]></title>
+			<description><![CDATA[<p>I had the opportunity to speak with Sumit Kumar, entrepreneur and content creator, about his struggles bringing his companies to $10k+ MRR. His journey has been unique between different cultures, multiple businesses, open source, free tiers, paid tiers, and much much more.<br/><br/>Check out Sumit on twitter: https://twitter.com/TweetsOfSumit </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/roxcodes/episodes/Sumit-Kumar-on-Content--Startups--and-Cultures-e2h0isb</link>
+			<guid isPermaLink="false">Buzzsprout-8897771</guid>
+			<dc:creator><![CDATA[Rox Codes]]></dc:creator>
+			<pubDate>Sun, 01 Aug 2021 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3804e24/podcast/play/83953995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370712241-44100-1-b5f0acb8dd5d1f27.mp3" length="176092775" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;I had the opportunity to speak with Sumit Kumar, entrepreneur and content creator, about his struggles bringing his companies to $10k+ MRR. His journey has been unique between different cultures, multiple businesses, open source, free tiers, paid tiers, and much much more.&lt;br/&gt;&lt;br/&gt;Check out Sumit on twitter: https://twitter.com/TweetsOfSumit &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>04:04:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40752721/340112416fe3271c.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Arvid Kahl from TheBootstrappedFounder - Audience Building, Inpsiring Others, and Tiring Sacrifices]]></title>
+			<description><![CDATA[<p>I had the absolute pleasure to get to speak with Arvid Kahl a few weeks ago! We spoke about his new book The Embedded Entrepreneur and the struggles he had getting to this point.<br/><br/>Everything from regrets about not hiring early to the emptiness he felt after his company was acquired, and the struggles of finding your passion again.<br/><br/>Check out Arvid on twitter: https://twitter.com/arvidkahl</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/roxcodes/episodes/Arvid-Kahl-from-TheBootstrappedFounder---Audience-Building--Inpsiring-Others--and-Tiring-Sacrifices-e2h0irr</link>
+			<guid isPermaLink="false">Buzzsprout-8683621</guid>
+			<dc:creator><![CDATA[Rox Codes]]></dc:creator>
+			<pubDate>Sun, 20 Jun 2021 05:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3804e24/podcast/play/83953979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370712205-44100-1-9d3bf5070b634d34.mp3" length="145728925" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;I had the absolute pleasure to get to speak with Arvid Kahl a few weeks ago! We spoke about his new book The Embedded Entrepreneur and the struggles he had getting to this point.&lt;br/&gt;&lt;br/&gt;Everything from regrets about not hiring early to the emptiness he felt after his company was acquired, and the struggles of finding your passion again.&lt;br/&gt;&lt;br/&gt;Check out Arvid on twitter: https://twitter.com/arvidkahl&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>03:22:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40752721/7af5f2998ed17ebf.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Oyvind Reed from Whereby - UX, Empathy, and Bettering Yourself]]></title>
+			<description><![CDATA[<p>I got the chance to interview Oyvind Reed, CEO of Whereby, an online video conferencing platform. We got to talk about everything from caring about customers to caring about yourself.<br/>Whereby is free to use at <a href='https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa1hMS1FMRWtuY1JXSDNyQjQwcHh5eHNKSUZ1Z3xBQ3Jtc0trcVotdmFoVnVTNEVKZHRfQlRtNGtVUlltUDFIMWQ0YzNabUdnU1piQ1RLbGtZbWdrbG1KY25yY0ZZQzRKdGdUX01ieHFaMF9ETXpLSHRBUTdEcy1FbnpFbS1Eamc0R1RlV3F1aTZQZmVXUW5FQVZnVQ&amp;q=https%3A%2F%2Fwhereby.com'>https://whereby.com</a><br/><br/>Seriously you should try it out, it&apos;s like zoom but just way easier to use.</p><p>Youtube version: https://www.youtube.com/watch?v=iXYPKTEek3c</p><p><br/></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/roxcodes/episodes/Oyvind-Reed-from-Whereby---UX--Empathy--and-Bettering-Yourself-e2h0iqp</link>
+			<guid isPermaLink="false">Buzzsprout-8724288</guid>
+			<dc:creator><![CDATA[Rox Codes]]></dc:creator>
+			<pubDate>Wed, 31 Mar 2021 12:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3804e24/podcast/play/83953945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370712143-44100-1-6ba4c41b1cedd0f1.mp3" length="76805324" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;I got the chance to interview Oyvind Reed, CEO of Whereby, an online video conferencing platform. We got to talk about everything from caring about customers to caring about yourself.&lt;br/&gt;Whereby is free to use at &lt;a href=&apos;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqa1hMS1FMRWtuY1JXSDNyQjQwcHh5eHNKSUZ1Z3xBQ3Jtc0trcVotdmFoVnVTNEVKZHRfQlRtNGtVUlltUDFIMWQ0YzNabUdnU1piQ1RLbGtZbWdrbG1KY25yY0ZZQzRKdGdUX01ieHFaMF9ETXpLSHRBUTdEcy1FbnpFbS1Eamc0R1RlV3F1aTZQZmVXUW5FQVZnVQ&amp;amp;q=https%3A%2F%2Fwhereby.com&apos;&gt;https://whereby.com&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Seriously you should try it out, it&amp;apos;s like zoom but just way easier to use.&lt;/p&gt;&lt;p&gt;Youtube version: https://www.youtube.com/watch?v=iXYPKTEek3c&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:46:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40752721/15db75498c9b7a90.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Pieter Levels from NomadList - Streaming, Startups, Life]]></title>
+			<description><![CDATA[<p>Got the chance to talk with the legend himself Pieter Levels. We talked for over four hours about just about everything around streaming, startups, fundraising, believing in yourself, working by yourself, and everything in between.<br/><br/></p><p>This was a while back, but now that we&apos;re going more official with the podcast, I wanted to give this to all of you. A lot of people really liked it!<br/><br/>Pieter: https://twitter.com/levelsio<br/>Rox (Dan) (Me): https://twitter.com/roxkstar74</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/roxcodes/episodes/Pieter-Levels-from-NomadList---Streaming--Startups--Life-e2h0isg</link>
+			<guid isPermaLink="false">Buzzsprout-8671503</guid>
+			<dc:creator><![CDATA[Rox Codes]]></dc:creator>
+			<pubDate>Tue, 05 Jan 2021 07:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3804e24/podcast/play/83954000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370712255-44100-1-8ac14b9bcbee32d3.mp3" length="188047523" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Got the chance to talk with the legend himself Pieter Levels. We talked for over four hours about just about everything around streaming, startups, fundraising, believing in yourself, working by yourself, and everything in between.&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;This was a while back, but now that we&amp;apos;re going more official with the podcast, I wanted to give this to all of you. A lot of people really liked it!&lt;br/&gt;&lt;br/&gt;Pieter: https://twitter.com/levelsio&lt;br/&gt;Rox (Dan) (Me): https://twitter.com/roxkstar74&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>04:21:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40752721/47b16ac244af6689.jpg"/>
+		</item>
+	</channel>
+</rss>
+Hyper Icon
